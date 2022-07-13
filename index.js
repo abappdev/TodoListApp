@@ -149,5 +149,5 @@ app.post('/delete', function (req, res) {
 
 //Listener
 app.listen(3000, function () {
-  console.log('TodoList  app listening on port 3000!')
+  console.log('TodoList app listening on port 3000!')
 })
